@@ -1,0 +1,15 @@
+/Users/poideeira/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5
+/Users/poideeira/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.deps.json
+/Users/poideeira/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.runtimeconfig.json
+/Users/poideeira/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.dll
+/Users/poideeira/Projects/lab_5/lab_5/bin/Debug/net7.0/lab_5.pdb
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.csproj.AssemblyReference.cache
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.AssemblyInfoInputs.cache
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.AssemblyInfo.cs
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.csproj.CoreCompileInputs.cache
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.dll
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/refint/lab_5.dll
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.pdb
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/lab_5.genruntimeconfig.cache
+/Users/poideeira/Projects/lab_5/lab_5/obj/Debug/net7.0/ref/lab_5.dll
